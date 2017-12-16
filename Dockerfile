@@ -1,4 +1,4 @@
-FROM spreadspace:ffmpeg
+FROM spreadspace/ffmpeg:latest
 MAINTAINER Christian Pointner <equinox@spreadspace.org>
 
 USER root
